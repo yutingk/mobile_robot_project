@@ -1,8 +1,0 @@
-prefix=/home/robot/catkin_ws/devel
-
-Name: cp3
-Description: Description of cp3
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs
